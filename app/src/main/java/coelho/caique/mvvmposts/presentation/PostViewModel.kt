@@ -1,7 +1,7 @@
 package coelho.caique.mvvmposts.presentation
 
 import android.arch.lifecycle.MutableLiveData
-import coelho.caique.mvvmposts.data.model.Post
+import coelho.caique.mvvmposts.data.model.Local.Post
 
 class PostViewModel : BaseViewModel() {
 

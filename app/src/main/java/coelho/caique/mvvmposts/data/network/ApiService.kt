@@ -1,6 +1,6 @@
 package coelho.caique.mvvmposts.data.network
 
-import coelho.caique.mvvmposts.data.model.Post
+import coelho.caique.mvvmposts.data.model.Local.Post
 import io.reactivex.Observable
 import retrofit2.http.GET
 
